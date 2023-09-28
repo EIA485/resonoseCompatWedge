@@ -9,7 +9,8 @@ A Wedge for mods compiled against neos/nml to work with resonite/rml
 
 ## contributing
 feel free to contribute remaping stubs.
-eg:```cs
+eg:
+```cs
 class oldClassNameOrClassWithRenamedMembers : NewClass
 {
 	public void OldFunctionName(string arg) => newFunctionName(arg);
