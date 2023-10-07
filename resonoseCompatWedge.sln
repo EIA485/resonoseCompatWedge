@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudX.Shared", "CloudX.Sha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeX", "CodeX\CodeX.csproj", "{224C951E-B42A-4E8D-AD8D-5863009A2C4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandX", "CommandX\CommandX.csproj", "{F28360DF-AA7B-48BF-9BC7-B6845F6DA231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostX", "PostX\PostX.csproj", "{9E7CDB44-3372-4548-952C-14EDBB25D4DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{224C951E-B42A-4E8D-AD8D-5863009A2C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224C951E-B42A-4E8D-AD8D-5863009A2C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224C951E-B42A-4E8D-AD8D-5863009A2C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28360DF-AA7B-48BF-9BC7-B6845F6DA231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28360DF-AA7B-48BF-9BC7-B6845F6DA231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28360DF-AA7B-48BF-9BC7-B6845F6DA231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28360DF-AA7B-48BF-9BC7-B6845F6DA231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7CDB44-3372-4548-952C-14EDBB25D4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7CDB44-3372-4548-952C-14EDBB25D4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7CDB44-3372-4548-952C-14EDBB25D4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7CDB44-3372-4548-952C-14EDBB25D4DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
